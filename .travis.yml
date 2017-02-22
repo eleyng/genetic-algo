@@ -5,8 +5,8 @@ python:
 
 sudo: false
 
-notifications:
-  slack: cs329e-spring-2017:AWsM9A5m1bIn3AFcRRVQEBVl
+#notifications:
+#  slack: cs329e-spring-2017:AWsM9A5m1bIn3AFcRRVQEBVl
 
 install:
     - pip install --upgrade pip
